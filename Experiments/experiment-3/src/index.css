@@ -1,0 +1,17 @@
+body {
+  background: #f6f7fb;
+}
+
+.app-shell {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main.container {
+  flex: 1;
+}
+
+.hero-bg {
+  background: linear-gradient(135deg, #0d6efd, #6610f2);
+}
