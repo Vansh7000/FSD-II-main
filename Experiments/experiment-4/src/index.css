@@ -1,0 +1,31 @@
+/* Page base */
+html, body {
+  height: 100%;
+}
+
+.theme-light {
+  background: #f6f7fb;
+  color: #111;
+  min-height: 100vh;
+}
+
+.theme-dark {
+  background: #0b1220;
+  color: #e9eefc;
+  min-height: 100vh;
+}
+
+.theme-dark .card {
+  background: #111a2e;
+  color: #e9eefc;
+}
+
+.theme-dark .text-muted {
+  color: rgba(233, 238, 252, 0.7) !important;
+}
+
+/* ✅ Hero section (THIS FIXES YOUR BLANK HERO) */
+.hero-bg {
+  background: linear-gradient(135deg, #0d6efd, #6610f2);
+  color: white;
+}
