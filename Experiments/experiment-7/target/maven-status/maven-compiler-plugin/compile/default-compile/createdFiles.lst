@@ -1,0 +1,8 @@
+com\example\rbac\entity\Role.class
+com\example\rbac\RbacApplication.class
+com\example\rbac\controller\TestController.class
+com\example\rbac\entity\User.class
+com\example\rbac\config\SecurityConfig.class
+com\example\rbac\controller\AuthController.class
+com\example\rbac\service\CustomUserDetailsService.class
+com\example\rbac\repository\UserRepository.class
